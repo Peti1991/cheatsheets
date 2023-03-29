@@ -8,3 +8,5 @@ githubon létrehozunk egy új üres repot(kell az URL)
 git remote add origin URL  hozzálinkeljük a remote repot és elnevezzük origin-nek
 git remote  kiirja hogy hozzá van kötve
 git push (előszőr errort kapunk ls be kell másolni ezt: git push --set-upstream origin main)
+git clone URL . -->leclonozzuk a remote repot(bármelyik remote-ot)
+git log 
