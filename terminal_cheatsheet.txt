@@ -1,0 +1,8 @@
+cd change directory
+cd .. visszalép egy mappát
+cd myfolder belép a myfolder mappába #tabbal kiegészíti #lehet láncolni
+felfelé nyíl korábbi parancsokat elő tudjuk hozni
+mkdir make directory e.g. mkdir foldername: create a foldername foldername
+ni create new file e.g. ni file.txt create file.txt
+ls list everything in the working directory
+ls -Force mutatja a rejtett fileokat is
