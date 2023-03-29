@@ -1,2 +1,10 @@
-git init 
-git version
+git status status of git, check if it is version controlled(ha fatal akkor jó)
+git init verziókövetés kezdése(utána git status)
+git add . minden ami itt van adjuk hozzá a következő snapshothoz
+git commit -m "commit message" #bármi értelemeset lehet ideirni -->elnevezzük a  verziót
+------------(eddig lokális)
+git remote  megnézi h van-e remote repo
+githubon létrehozunk egy új üres repot(kell az URL)
+git remote add origin URL  hozzálinkeljük a remote repot és elnevezzük origin-nek
+git remote  kiirja hogy hozzá van kötve
+git push (előszőr errort kapunk ls be kell másolni ezt: git push --set-upstream origin main)
